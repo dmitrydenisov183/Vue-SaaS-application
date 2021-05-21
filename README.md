@@ -1,5 +1,11 @@
 
-# warmup
+# warmupinbox
+Vue, Vuex, Vuetify,
+Typescript,
+Vue-drift for live chat,
+Axios,
+Vue-charts
+
 
 ## Project setup
 ```
